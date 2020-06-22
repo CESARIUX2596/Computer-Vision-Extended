@@ -5,6 +5,7 @@
 - Add Variable to Path in System variables (C\opencv\build\bin)
 - Create Empty c++ Project in Visual Studio 
 - Change Debug to x64
+- Create Source File (Source.cpp)
 - In solution Properties > C/C++ > General >  Additional Include Directories (C:\opencv\build\include) 
 - In Solution Properties > Linker > General > Additional Library Directories (C:\opencv\build\x64\vc14\lib)
 - In Solution Properties > Linker > Input > select the file with d.lib, this contains the Debugger Options for your project. (opencv_world430d.lib;)
